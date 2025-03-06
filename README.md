@@ -1,5 +1,3 @@
-# training-ansible---
-
 # **Instalación de Ansible y Configuración de VM con Terraform para Ejecutar Mario Bros**
 
 ## **1️⃣ Instalación de Ansible en Ubuntu**
